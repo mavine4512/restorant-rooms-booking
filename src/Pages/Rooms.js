@@ -8,7 +8,7 @@ const Rooms = () => {
   return (
     <React.Fragment>
       <Hero hero="roomsHero">
-        <Banner title="namTech rooms">
+        <Banner title="naamTech rooms">
           <Link to="/" className="btn-primary">
             Return to home
           </Link>

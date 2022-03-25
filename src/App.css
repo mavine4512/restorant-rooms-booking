@@ -179,7 +179,7 @@ h6 {
 }
 .banner div {
   width: 10rem;
-  height: 5px;
+  height: 3px;
   background: var(--primaryColor);
   margin: 1.7rem auto;
 }
@@ -195,6 +195,7 @@ h6 {
     font-size: 3rem;
   }
 }
+
 @media screen and (min-width: 992px) {
   .banner {
     padding: 2rem 6rem;

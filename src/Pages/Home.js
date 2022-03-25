@@ -11,7 +11,7 @@ export default function Home() {
     <React.Fragment>
       <Hero>
         <Banner
-          title="namTach rooms"
+          title="naamTach rooms"
           subtitle=" luxurious rooms starting from $200"
         >
           <Link to="/rooms" className="btn-primary">
